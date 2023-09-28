@@ -1,0 +1,29 @@
+#include <iostream>
+#include<iomanip>
+ 
+using namespace std;
+ 
+int main() {
+	
+				double x , z=3.141592653 ;
+				double y ;
+				cin >>y ;
+				x= z*y*y ,
+				
+				cout << fixed <<setprecision(9) << x;
+				
+				 
+				
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	return 0;
+}
